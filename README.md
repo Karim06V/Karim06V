@@ -7,7 +7,7 @@
 --->
 # **👋Hello guys, I'm Karim**
 ## ***I'm a student from Bulgaria, who loves coding, self-development and learning new skills. Right now I'm working on developing an App with my colleagues. Also, I like playing the guitar, swimming, listening to music, etc.***
-### ****I'm currently learning & programming on : Dart & C#****
+### ****I'm currently learning & coding on : Dart & C#****
 
 
 
